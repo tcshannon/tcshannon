@@ -1,5 +1,5 @@
-### Hi there 👋
-[Contact](https://tcshannon.github.io/contact/)
+### Hobbyist Programmer 🌐 | Seeking Tech Solutions 🛠 | FOSS Admirer 💻
+[LinkTree](https://linktr.ee/tcshannon)
 
 <!--
 **tcshannon/tcshannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
